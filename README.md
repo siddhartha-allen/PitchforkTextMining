@@ -1,5 +1,6 @@
 # PitchforkTextMining
 ![alt text](https://github.com/siddhartha-allen/PitchforkTextMining/blob/master/tldr.png)
+
 Data scraped album reviews, word2vec words, testing hypothesis that certain words will cluster and possibly have related average scores
 
 * Scraped album reviews from pitchfork.com
